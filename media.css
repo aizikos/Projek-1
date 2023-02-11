@@ -1,0 +1,141 @@
+@media(max-width:400px){
+    .container{
+        width: 400px;
+    }
+
+    .Frist-block .container li{
+        font-size: 10px;
+        display: block;
+        padding: 0;
+
+    }
+
+    .logo img{
+        width: 150px;
+        height: 100px;
+    }
+    
+    .logotip{
+        margin-top: 20px;
+        margin-right: 80px;
+    }
+
+
+    .container .logotip h3{
+        width: 110px;
+        font-size: 10px;
+    }
+
+    .container .logotip h6{
+        font-size: 5px;
+    }
+
+    .imge{
+        display: none;
+    }
+
+    .third-block .container ul li{
+        font-size: 10px;
+    }
+
+    /*.Frist-block .container .li{
+        display: none;
+        position: absolute;
+        top: 50px;
+        background-color: rgb(31, 182, 31);
+        padding: 30px;
+    }
+
+    .Frist-block .container li, a:hover .li{
+        display: block;
+    }*/
+
+
+    .search{
+        padding: 14px;
+        font-size: 10px;
+        border-radius: 30px;
+        width: 110px;
+        height: 20px;
+    }
+
+    .loop{
+        float: right;
+        margin-top: -19px;
+        margin-left: 50px;
+    }
+
+    .shop{
+        width: 120px;
+        margin-left: -20px;
+    }
+
+    p{
+        float: none;
+        font-size: 10px;
+    }
+
+    .text{
+        font-size: 12px;
+    }
+
+    .text span{
+        font-size: 10px;
+    }
+
+    .bag{
+        float: left;
+        font-size: 14px;
+    }
+
+    .head-title h2 {
+        font-size: 12px;
+    }
+
+    .fristslogan h4 {
+        font-size: 32px;
+    }
+
+    .container img {
+        width: 185PX;
+        height: 115PX;
+    }
+    .frist-head h1{
+        font-size: 18px;
+    }
+
+    .frist-head a {
+        width: 45px;
+        height: 21px;
+        font-size: 10px;
+    }
+    
+    .products {
+        height: 3500px;
+    }
+
+    .product-card .img>img {
+        height: 200px;
+        width: 172px;
+    }
+
+    .info h4 {
+        font-size: 15px
+    }
+
+    .product-card .prices span {
+        font-size: 25px;
+    }
+
+    .order {
+        width: 60%;
+        margin-left: 45px;
+    }
+
+    .toolcard {
+        right: 35px;
+        font-size: 12px;
+    }
+
+
+}
