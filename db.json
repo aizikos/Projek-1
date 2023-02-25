@@ -1,0 +1,160 @@
+{
+  "student": [
+    {
+      "name": "Ali",
+      "sname": "Manapov",
+      "id": 1,
+      "age": 23,
+      "study": "Not study",
+      "Married": "not married"
+    },
+    {
+      "name": "Alima",
+      "sname": "Marapova",
+      "id": 2,
+      "age": 25,
+      "study": "study in USA",
+      "Married": "married"
+    },
+    {
+      "name": "Alia",
+      "sname": "Saparova",
+      "id": 3,
+      "age": 22,
+      "study": "Not study",
+      "Married": "not married"
+    }
+  ],
+  "New_students": [
+    {
+      "name": "Kerem",
+      "sname": "Bursin",
+      "id": 4,
+      "age": 26,
+      "study": "study actor",
+      "Married": " married"
+    },
+    {
+      "name": "Burak",
+      "sname": "Ozchivit",
+      "id": 5,
+      "age": 27,
+      "study": "Actor",
+      "Married": " married"
+    },
+    {
+      "name": "Meriem",
+      "sname": "Uzerli",
+      "id": 5,
+      "age": 28,
+      "study": "Model",
+      "Married": " married"
+    }
+  ],
+  "teachers": [
+    {
+      "name": "Maria",
+      "sname": "Park",
+      "id": 6,
+      "age": 30,
+      "study": "Teacher biologi",
+      "Married": " married",
+      "Child":"2"
+  },
+  {
+    "name": "Sam",
+    "sname": "Salo",
+    "id": 7,
+    "age": 30,
+    "study": "Teacher Math",
+    "Married": "No",
+    "Child":"No"
+  },
+  {
+    "name": "Sakura",
+    "sname": "Roset",
+    "id": 8,
+    "age": 32,
+    "study": "Teacher Russ",
+    "Married": "No",
+    "Child":"No"
+  },
+  {
+    "name": "Tom",
+    "sname": "Redl",
+    "id": 9,
+    "age": 34,
+    "study": "Teacher Geograghy",
+    "Married": "Yes",
+    "Child":"3"
+  }
+ ],
+ "Olympics":[
+    {
+      "name": "Biology",
+      "student": "Alima",
+      "course_study": 3,
+      "min":50,
+      "max": 100,
+      "certificates": "yes",
+      "teacher": "Gulmira Abdylaeva"
+    },
+    {
+        "name": "Math",
+      "student": "Aibek",
+      "course_study": 4,
+      "min":70,
+      "max": 100,
+      "certificates": "yes",
+      "teacher": "Sam fer"
+    },
+    {
+        "name": "geography",
+      "student": "Beka",
+      "course_study": 3,
+      "min":57,
+      "max": 100,
+      "certificates": "yes",
+      "teacher": "Salamat Akunova"
+    },
+    {
+        "name": " history",
+      "student": "Beka",
+      "course_study": 3,
+      "min":50,
+      "max": 100,
+      "certificates": "yes",
+      "teacher": "Nur Fakur"
+    }
+ ],
+ "Books":[
+    {
+        "name":" history",
+        "quantity":4500,
+        "for_courses":"1,2,3",
+        "left":1000,
+        "author": "Charli Bold"
+    },
+    {
+        "name":"Lang",
+        "quantity":4100,
+        "for_courses":2,
+        "left":1000,
+        "author": "Hloa Jeck"
+    },
+    {
+        "name":"literature",
+        "quantity":2500,
+        "for_courses":3,
+        "left":100,
+        "author": "Axel Typo"
+    },
+    {
+        "name":"geometry",
+        "quantity":500,
+        "for_courses":4,
+        "left":100,
+        "author": "Alex Hop"       
+    }
+ ]
+}

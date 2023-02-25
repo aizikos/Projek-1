@@ -1,0 +1,54 @@
+{
+  "student": [
+    {
+      "name": "Ali",
+      "sname": "Manapov",
+      "id": 1,
+      "age": 23,
+      "study": "Not study",
+      "Married": "not married"
+    },
+    {
+      "name": "Alima",
+      "sname": "Marapova",
+      "id": 2,
+      "age": 25,
+      "study": "study in USA",
+      "Married": "married"
+    },
+    {
+      "name": "Alia",
+      "sname": "Saparova",
+      "id": 3,
+      "age": 22,
+      "study": "Not study",
+      "Married": "not married"
+    }
+  ],
+  "New students": [
+    {
+      "name": "Kerem",
+      "sname": "Bursin",
+      "id": 4,
+      "age": 26,
+      "study": "study actor",
+      "Married": " married"
+    },
+    {
+      "name": "Burak",
+      "sname": "Ozchivit",
+      "id": 5,
+      "age": 27,
+      "study": "Actor",
+      "Married": " married"
+    },
+    {
+      "name": "Meriem",
+      "sname": "Uzerli",
+      "id": 5,
+      "age": 28,
+      "study": "Model",
+      "Married": " married"
+    }
+  ]
+}
